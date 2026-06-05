@@ -1,8 +1,15 @@
 ## Introduction
-Hey mate! don't you every want to use your github as bussiness card
-No..? Too bad!
 
-![Website Screeshot](Assets/preview.png)
-Check it out at https://github-as-a-bussiness-card.vercel.app/
+Hey mate! Ever wanted to turn your GitHub into a business card?
 
-Peace out!
+No? 
+
+Well, too bad I built it anyway. 😎
+
+Think of it as your dev identity, Just one link that says *"yeah, I code, and I make it look good."*
+
+![Website Screenshot](Assets/preview.png)
+
+🔗 **Check it out:** https://github-as-a-bussiness-card.vercel.app/
+
+Steal it, fork it, make it yours. Peace out!
