@@ -1,15 +1,20 @@
 ## Introduction
 
-Hey mate! Ever wanted to turn your GitHub into a business card?
+So here's the thing.
 
-No? 
+You've got a GitHub. It's got your repos, your green squares, your one impulsive
+3am commit named "fix" (followed by "fix again"). But does it have *vibes*? Does it
+hand itself to a stranger like a slightly-too-confident handshake?
 
-Well, too bad I built it anyway. 😎
+Now it does.
 
-Think of it as your dev identity, Just one link that says *"yeah, I code, and I make it look good."*
+**This turns your GitHub into a business card.** 
+
+Is it useful? Debatable. Would a resume do the job better? Almost certainly.
+Did that stop me? Absolutely not.
 
 ![Website Screenshot](Assets/preview.png)
 
-🔗 **Check it out:** https://github-as-a-bussiness-card.vercel.app/
+🔗 **See it live:** https://github-as-a-bussiness-card.vercel.app/
 
-Steal it, fork it, make it yours. Peace out!
+Fork it, break it, make it yours. Peace out.
